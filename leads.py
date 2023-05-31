@@ -32,6 +32,8 @@ while True:
     driver.find_element_by_xpath('/html/body/div[4]/div[3]/div[2]/div/div[1]/main/div/div/div/div[2]/div/button[2]').click()
     time.sleep(3)
 
+    
+
 df.drop_duplicates(inplace = True)
 
 ######################################### - CLEANING THE DATA - ##########################################
